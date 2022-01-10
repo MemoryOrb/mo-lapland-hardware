@@ -1,7 +1,9 @@
 # Lapland Memory Orb - Hardware
 **v0.4** _(schematic and list of electronic components)_
 
-3D models and circuit. This repository includes:
+3D models and circuit for the memory orb made at the [University of Lapland](https://www.ulapland.fi/EN) and [Lapland University of Applied Sciences](https://www.lapinamk.fi/en) as part of the [Lapland Robotics](https://laplandrobotics.com) and [Digital Access to Sámi Heritage Archives](https://digisamiarchives.com) projects.
+
+This repository includes:
 - The complete list of components
 - The last up-to-date schematic (PDF)
 - The electronic library (EAGLE/Fusion 360) with all the components (symbols only, used for schematic)
@@ -28,7 +30,7 @@
 [schematic-mo-271221.pdf](asset/schematic-mo-271221.pdf)
 ![Alt text](asset/schematic-mo-271221.png?raw=true "Schematic of the Lapland Memory Orb")
 
-EAGLE/Fusion 360 electronic library including all symbols.
+Custom EAGLE/Fusion 360 electronic library including all symbols for the memory orb.
 
 [mo-lapland-lib_v1.lbr](asset/mo-lapland-lib_v1.lbr)
 
